@@ -1,5 +1,7 @@
 # CLASSIC
 
+![](https://github.com/uribo/classic/raw/master/baton.png)
+
 > Classical music is art music produced or rooted in the traditions of Western music (both liturgical and secular). http://en.wikipedia.org/wiki/Classical_music (2015-01-01参照)
 
 ## Files
@@ -9,6 +11,8 @@
 * `title.csv`
     * Composer, Title, Link (to Musopen)
 * `artist.csv`
+* `instrument.csv`
+* `piece.csv`
 
 ## Link
 
